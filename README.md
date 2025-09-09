@@ -6,10 +6,10 @@ Sistema que realiza cadastro de Bancos e boletos para pagar
 ### /api/Bancos
 
 {
-  "bancoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "bancoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6", (Guid)  
   "nomeDoBanco": "string",
   "codigoDoBanco": "string",
-  "percentualDeJuros": 0
+  "percentualDeJuros": 0 (decimal)
 }
 
 ### /api/Boletos
